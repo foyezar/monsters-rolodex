@@ -1,0 +1,14 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Bigelow+Rules&display=swap');
+
+// Configurations
+@import './base/variables.scss';
+
+// Reset
+@import './base/reset';
+
+// Components
+@import './components/App.scss';
+@import './components/CardList.scss';
+@import './components/Card.scss';
+@import './components/SearchBox.scss';
